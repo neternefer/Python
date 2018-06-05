@@ -1,0 +1,23 @@
+#Szubienica
+import random
+#zmienne
+WORDS = {"LAMA", "MONTY", "PYTHON", "CAMELOT"}
+HANGMAN = {"""
+           ---------
+           |       |
+           |
+           |
+           |
+           |
+           |
+           |
+           |
+           ---------
+           """,
+           """
+           ---------
+           |
+
+
+
+
