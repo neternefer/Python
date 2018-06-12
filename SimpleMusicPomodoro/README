@@ -1,0 +1,3 @@
+Simple script formonitoring passage of time which will open specific URL at given time intervals.
+#TODO Better browser handling
+#TODO Add a script for collecting Youtube playlists URLS
